@@ -24,11 +24,12 @@ function App() {
 
       {/* Common components like Header and SideBar */}
       <Header />
+      <PageWrapper />
 
       {/* Defining routes for different pages */}
       <Routes>
         {/* Home page route displaying all sections */}
-        <Route path="/" element={<PageWrapper />}/>    
+        <Route path="/" element={<PageWrapper />}/>
         {/* Route for portfolio page */}
         <Route path="/portfolio" element={<PortfolioPage />} />
         <Route path='/blog' element={<Blog />} />
