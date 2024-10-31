@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/sumitesh-portfolio/static/css/main.958a6fd3.css",
+    "main.js": "/sumitesh-portfolio/static/js/main.3a9d30a8.js",
+    "static/media/hero-removed.png": "/sumitesh-portfolio/static/media/hero-removed.8676abeadc2b32c9022d.png",
+    "index.html": "/sumitesh-portfolio/index.html",
+    "main.958a6fd3.css.map": "/sumitesh-portfolio/static/css/main.958a6fd3.css.map",
+    "main.3a9d30a8.js.map": "/sumitesh-portfolio/static/js/main.3a9d30a8.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.958a6fd3.css",
+    "static/js/main.3a9d30a8.js"
+  ]
+}
